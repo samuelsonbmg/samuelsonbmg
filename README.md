@@ -7,6 +7,7 @@
 ## Areas of Interest
 - ⚡ Dada Science, Data Analyst and everything about data
 - ⚡ Back-End Development
+- ⚡ IoT Hardware e Software Development
 - ⚡ Power BI
 
 ### Connect with me:
